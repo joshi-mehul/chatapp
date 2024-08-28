@@ -1,0 +1,21 @@
+.headerContainer {
+    position: relative;
+    height: 60px;
+    width: 100%;
+    border-bottom: 1px solid #ccc ;
+}
+
+.headerContainer > .logo{
+    position: absolute;
+    top:1rem;
+    left: 1rem;
+}
+
+.headerContainer > .profile{
+    position: absolute;
+    top:0.6rem;
+    right: 1rem;
+    height: 42px;
+    width: 42px;
+    border-radius: 50%;
+}

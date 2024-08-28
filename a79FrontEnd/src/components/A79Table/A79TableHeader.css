@@ -1,0 +1,16 @@
+.A79TableHeaderContainer {
+    height: 100px;
+    display: flex;
+    justify-items: center;
+    background-color: #16161E;
+    color: #fff;
+    padding-top: 3rem;
+    padding-left: 1rem;
+    font-size: 20px;
+}
+
+.A79TableHeaderContainer img {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+ }
